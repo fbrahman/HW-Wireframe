@@ -1,0 +1,31 @@
+
+*{
+	box-sizing: border-box;
+}
+body {
+	background-color: #777;
+	font-family: "arial", "helvetica neue", helvetica, sans-serif;
+	font-size: 18px;
+	width: 960px;
+}
+header, nav, footer, section, aside{
+	background-color: #ebebeb;
+	margin:10px;
+}
+
+article{
+	background-color: #ebebeb;
+	border: 5px solid black;
+}
+section{
+	/*width:495px;*/
+}
+
+section, aside{
+	float: left;
+	width: 495px;
+}
+
+footer{
+	clear:both;
+}
