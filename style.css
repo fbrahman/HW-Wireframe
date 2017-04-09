@@ -52,3 +52,9 @@ footer{
 .col{
 	flex: 1;
 }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
