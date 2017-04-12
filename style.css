@@ -9,6 +9,7 @@ body {
 	font-family: "arial", "helvetica neue", helvetica, sans-serif;
 	font-size: 18px;
 	width: 960px;
+	margin:auto;
 }
 
 header, nav, footer, section, aside{
